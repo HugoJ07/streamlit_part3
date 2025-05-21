@@ -9,7 +9,7 @@ lesDonneesDesComptes = {
 }
 
 
-log_connexion = pd.read_csv("info_connexion.csv", sep=";", index_col='Unnamed: 0')
+log_connexion = pd.read_csv("https://raw.githubusercontent.com/HugoJ07/streamlit_part3/refs/heads/main/info_connexion.csv", sep=";", index_col='Unnamed: 0')
 
 
 for index, row in log_connexion.iterrows():
