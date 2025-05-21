@@ -1,0 +1,3 @@
+;name;password;Email;failed_login_attemps;logged_in;Role
+utilisateur;utilisateur;utilisateurMDP;utilisateur@gmail.com;0;False;Utilisateur
+root;root;rootMDP;root@gmail.com;0;False;administrateur
